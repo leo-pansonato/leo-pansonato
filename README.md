@@ -25,7 +25,7 @@ Algumas das tecnologias que uso diariamente
 
 <div align="center">
   <a href="https://github.com/leo-pansonato/leo-pansonato">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-pansonato"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-pansonato&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-pansonato&layout=compact&langs_count=8&theme=react&hide_border=true"/>
     <img src="https://raw.githubusercontent.com/leo-pansonato/leo-pansonato/output/snake.svg">
   </a>
